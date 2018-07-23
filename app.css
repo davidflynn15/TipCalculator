@@ -1,0 +1,49 @@
+body {
+  font-size: 16px;
+  text-align: center;
+  background: rgb(23, 32, 42);
+  color: rgb(247,220,111);
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#bill {
+  width: 165px;
+  margin: auto;
+  text-align: right;
+  margin-bottom: 5px;
+}
+#perGroup {
+  width: 165px;
+  margin: auto;
+  text-align: right;
+}
+
+#btnGetTip {
+  margin: 20px;
+}
+
+input{
+  width: 65px;
+}
+
+.hidden{
+  display: none;
+}
+table {
+  margin: auto;
+  width: 130px;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 2px solid gray;
+  color: rgb(240,243,244);
+}
+th, td {
+  padding: 2px;
+}
+th {
+  background: LightGray;
+  color: rgb(81, 90, 90);
+}
